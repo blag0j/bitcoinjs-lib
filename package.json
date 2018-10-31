@@ -1,5 +1,5 @@
 {
-  "name": "bitcoinjs-lib",
+  "name": "bitcoinjs-lib-cash",
   "version": "3.3.0",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
@@ -21,10 +21,6 @@
     "standard": "standard",
     "test": "npm run standard && npm run coverage",
     "unit": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoinjs-lib.git"
   },
   "files": [
     "src"
